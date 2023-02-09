@@ -14,8 +14,8 @@
 - You can capture FCM Response (Request) & FCM Payload (Response)
 - You can copy FCM Token from the application
 - You can send colour, avatar & image along with the form
-- It has a brand new Material 3 UI element (I used Flutter 3.3.8)
-- It has multi-theme support (It follows the system theme)
+- It has a notification On Tap functionality (pass screen name with/without id to open a specific screen if the user tap on notification). See postman collection for more information.
+- It has a brand new Material 3 UI element, along with system follows multi-theme support (I used Flutter 3.3.8 at this time)
 
 ## Tested Modes:
 - Foreground
