@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Documents/Dharam/flutter_sdk/flutter_macos_3.3.8-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.2.0/android" />
+            <option value="$USER_HOME$/Documents/Dharam/flutter_sdk/flutter_macos_3.3.8-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.4.1/android" />
+            <option value="$USER_HOME$/Documents/Dharam/flutter_sdk/flutter_macos_3.3.8-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-14.2.1/android" />
+            <option value="$USER_HOME$/Documents/Dharam/flutter_sdk/flutter_macos_3.3.8-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-13.0.0/android" />
+            <option value="$USER_HOME$/Documents/Dharam/flutter_sdk/flutter_macos_3.3.8-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_timezone-2.0.0/android" />
+            <option value="$USER_HOME$/Documents/Dharam/flutter_sdk/flutter_macos_3.3.8-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_android-10.2.0/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
